@@ -14,6 +14,12 @@ Laravel is accessible, yet powerful, providing tools needed for large, robust ap
 
 Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
 
+## Documentation in Russia
+Documentation for the framework can be found on the [Laravel RU website](http://laravel.su/docs).
+
+## Learning Laravel for Beginners
+Learning Laravel for Beginners can be found on the [Laravel RU tutorial](https://www.youtube.com/watch?v=qgeeJ_P3v0Q&list=PLD5U-C5KK50UaCJFcN8Zh7MnSnj4MbrZP).
+
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
